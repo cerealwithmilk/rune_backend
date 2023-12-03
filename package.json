@@ -10,7 +10,7 @@
   },
 
   "scripts": {
-    "start": "node server.js"
+    "production": "node server.js"
   },
 
   "name": "fluster",
